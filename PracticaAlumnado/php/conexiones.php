@@ -1,5 +1,5 @@
 <?php 
-    $conexion = mysqli_connect("localhost","root","","login_register_db");
+    $conexion = mysqli_connect("localhost","root","","alumnos_db");
     // if ($conexion){
     //     echo"Conectado exitosamente a la base de datos";
     // }else{
