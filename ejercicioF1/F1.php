@@ -27,7 +27,7 @@
             return false;
         }
 
-        public function subirCategoria($pPatrocinador, $subirCat){
+        public function subirCategoria($pPatrocinador, $subirCat){ // Como los de la F1 no pueden subir de rango lo he interpretado como que devuelve una instancia de F1 
             if ($subirCat){
                 return new F1($this->nombrePiloto,$this->nacionalidad,$this->numeroMonoplaza,$this->escuderia,$this->puntos,$pPatrocinador );
             }
