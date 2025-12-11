@@ -15,9 +15,11 @@ Aplicación que simula la web wordle, creado por
 | Salsa | VVVVV |
 
 [Github](https://github.com/Sendoa6/DWES/blob/practica_alumnado/README.md)
-![fotoWordle](https://www.internetmatters.org/wp-content/uploads/2022/02/wordle-logo.webp)
-'''javascript
+
+![fotoWordle](https://www.internetmatters.org/wp-content/uploads/2022/02/wordle-logo.webp
+)
+```javascript
 let palabra = salsa;
 console.log(palabra);
-'''
+```
 
